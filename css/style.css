@@ -11627,15 +11627,15 @@ a.text-dark:focus {
 }
 
 .news-card.news-card-1::before {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/News_1@2x.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/img/News_1@2x.jpg);
 }
 
 .news-card.news-card-2::before {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/News_2@2x.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/img/News_2@2x.jpg);
 }
 
 .news-card.news-card-3::before {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/News_3@2x.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/img/News_3@2x.jpg);
 }
 
 .news-card .card-body {
